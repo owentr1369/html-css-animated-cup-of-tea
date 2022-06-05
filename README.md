@@ -1,6 +1,6 @@
 # html-css-animated-cup-of-tea
 
-Animated Hot Cup of Tea using Html &amp; CSS
+Animated Hot Cup of Tea using Html &amp; CSS Only
 
 Demo: 
 
